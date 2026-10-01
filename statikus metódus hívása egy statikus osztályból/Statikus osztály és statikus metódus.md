@@ -2,7 +2,7 @@
 
 
 
-###### **1. A program felépítése**
+### **1. A program felépítése**
 
 A program két fő részből áll:
 
@@ -32,7 +32,7 @@ A Program.Main() meghívja ezeket a metódusokat, így a program futásakor megj
 
 
 
-###### **2. A statikus osztály szerepe**
+### **2. A statikus osztály szerepe**
 
 A Messages osztály statikus, ami azt jelenti:
 
@@ -72,7 +72,7 @@ A statikus osztály így egyfajta üzenetkezelő modul, amelyet a program más r
 
 
 
-###### **3. A statikus metódusok működése**
+### **3. A statikus metódusok működése**
 
 A statikus metódusok olyan függvények, amelyeket nem kell példányhoz kötni.
 
@@ -108,7 +108,7 @@ Ez a forma azt jelenti:
 
 
 
-###### **4. A Program osztály szerepe**
+### **4. A Program osztály szerepe**
 
 A Program osztály tartalmazza a Main() metódust, amely a program belépési pontja.
 
@@ -142,7 +142,7 @@ Ez a sorrend határozza meg a program futását.
 
 
 
-###### **5. A program futásának menete**
+### **5. A program futásának menete**
 
 Amikor elindítod a programot, a következő történik:
 
@@ -174,7 +174,7 @@ Csak ezután záródik be.
 
 
 
-###### **6. A program célja**
+### **6. A program célja**
 
 A program bemutatja:
 
@@ -218,7 +218,7 @@ matematikai vagy logikai műveleteknél
 
 
 
-###### **7. Miért hasznos így felépíteni?**
+### **7. Miért hasznos így felépíteni?**
 
 Átlátható: az üzenetek külön osztályban vannak, nem keverednek a fő programmal.
 
